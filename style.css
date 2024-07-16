@@ -1,0 +1,28 @@
+.pagination {
+    text-align: center;
+    margin: 20px 0;
+}
+.pagination ul {
+    /* list-style: none; */
+    padding: 0;
+}
+.pagination ul li {
+    display: inline-block;
+    margin: 0 5px;
+}
+.pagination ul li a {
+    padding: 5px 10px;
+    /* text-decoration: none; */
+    border: 1px solid #ddd;
+    color: #0073aa;
+}
+.pagination ul li a:hover {
+    background-color: #0073aa;
+    color: #fff;
+}
+.pagination ul li span {
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    background-color: #0073aa;
+    color: #fff;
+}
