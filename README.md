@@ -1,6 +1,6 @@
 # Post Title List Plugin with Pagination
 
-**Plugin Name:** Post Title List Plugin with Pagination  
+**Plugin Name:** Post Title List Plugin  
 **Description:** A simple WordPress plugin to display a paginated list of all post titles as clickable links using a shortcode.  
 **Version:** 1.2  
 **Author:** Janlord Luga  
